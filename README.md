@@ -1,6 +1,7 @@
 # bmicalculator
 
 A new Flutter project.
+it is just an app that calculates body mass index of any person.
 
 ## Getting Started
 
